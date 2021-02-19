@@ -16,24 +16,40 @@ bjc2157@columbia.edu
 Nomenclature----------
 
 Inputs and Outputs...
+
 MAP - Mean arterial pressure [mmHg]
+
 Na - Blood sodium levels [mmol]
+
 GFR - Glomerular filtration rate [mL/min]
+
 UO - Urine output rate [mL/min]
+
 
 Nodes...
 
 B - Bowman's space
+
 P - Proximal tubule
+
 N - Thin descending limb of Henle
+
 K - Thick ascending limb of Henle
+
 D - Distal tubule
+
 A - Afferent arteriole
+
 G - Glomerulus
+
 E - Efferent arteriole
+
 R - Renal vein
+
 V - Venous blood
+
 U - Ureters
+
 
 Variables...
 
