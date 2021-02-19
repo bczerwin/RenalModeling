@@ -54,14 +54,22 @@ U - Ureters
 Variables...
 
 P_X - Fluid pressure at node X [mmHg]
+
 Q_XY - Fluid flow between nodes X and Y [mL/s]
+
 C_X - Sodium concentration at node X [mmol]
+
 J_XY - Sodium flow between nodes X and Y [mmol/s]
+
 
 Parameters...
 
 Rh_XY - Hydraulic resistance between nodes X and Y
+
 rhX - Fluid reabsorption function/fraction at node X
+
 rsX - Sodium reabsorption function/fraction at node X
+
 fb - Feedback modulation gains
+
 ScalFac - number of nephrons (n)
