@@ -12,7 +12,9 @@ https://ieeexplore.ieee.org/document/9250502
 Feel free to contact me:
 bjc2157@columbia.edu
 
+
 Nomenclature----------
+
 Inputs and Outputs...
 MAP - Mean arterial pressure [mmHg]
 Na - Blood sodium levels [mmol]
@@ -20,6 +22,7 @@ GFR - Glomerular filtration rate [mL/min]
 UO - Urine output rate [mL/min]
 
 Nodes...
+
 B - Bowman's space
 P - Proximal tubule
 N - Thin descending limb of Henle
@@ -33,12 +36,14 @@ V - Venous blood
 U - Ureters
 
 Variables...
+
 P_X - Fluid pressure at node X [mmHg]
 Q_XY - Fluid flow between nodes X and Y [mL/s]
 C_X - Sodium concentration at node X [mmol]
 J_XY - Sodium flow between nodes X and Y [mmol/s]
 
 Parameters...
+
 Rh_XY - Hydraulic resistance between nodes X and Y
 rhX - Fluid reabsorption function/fraction at node X
 rsX - Sodium reabsorption function/fraction at node X
